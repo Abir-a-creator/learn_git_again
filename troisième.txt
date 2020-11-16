@@ -1,0 +1,14 @@
+Abir@DESKTOP-F0KQ54J MINGW64 ~/Desktop (master)
+$ git clone https://github.com/Abir-a-creator/learn_git_again.git
+Cloning into 'learn_git_again'...
+warning: You appear to have cloned an empty repository.
+
+Abir@DESKTOP-F0KQ54J MINGW64 ~/Desktop (master)
+$ cd learn_git_again
+
+Abir@DESKTOP-F0KQ54J MINGW64 ~/Desktop/learn_git_again (master)
+$ git add troisième.txt
+fatal: pathspec 'troisième.txt' did not match any files
+
+Abir@DESKTOP-F0KQ54J MINGW64 ~/Desktop/learn_git_again (master)
+$
